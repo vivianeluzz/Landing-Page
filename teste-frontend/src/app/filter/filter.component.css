@@ -1,0 +1,123 @@
+section {
+    max-width: 248px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000014;
+    border-radius: 5px;
+    opacity: 1;
+    font-family: 'Roboto';
+}
+.breadcrumbs {
+    font-size: 12px;
+    display: flex;
+    color: #999999;
+    font-family: 'Roboto';
+}
+.breadcrumbs a {
+    color: #F97D00;
+    font-family: 'Roboto';
+}
+.topo {
+    padding: 10px;
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.filter-container{
+    padding: 16px;
+}
+
+h2{
+    font-size: 16px;
+    margin: 0;
+}
+.topo a{
+    color: #F97D00;
+    text-decoration: underline;
+    font-size: 12px;
+}
+.filter-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0;
+}
+.filter-title p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 700;
+    width: 100%;
+    padding-left: 20px;
+}
+input {
+    width: 188px;
+    border: 1px solid #DCDCDC;
+    border-radius: 5px;
+    color: #58595B;
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.container-marcas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+h4 , h6 {
+    font-size: 11px;
+    color: #58595B;
+    height: 13px;
+    margin: 0;
+    font-family: 'Roboto';
+    text-align: center;
+}
+h6 {
+    color: #999999;
+    font-weight: 300;
+}
+.box-marca {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #DCDCDC;
+    border-radius: 3px;
+    width: 63px;
+    height: 67px;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5px;
+    margin-bottom: 8px;
+}
+
+.box-marca img {
+    align-self: center;
+    margin: 6px;   
+}
+label {
+   color: #58595B;   
+   font-size: 14px;
+   margin-left: 15px;
+   font-weight: 300;
+   opacity: 1;
+}
+.checkbox-container {
+    display: flex; 
+    flex-wrap: wrap;
+    width: 100%;
+}
+.checkbox-item {
+ display: flex; 
+ width: 100%;
+ align-items: center;
+}
+
+.checkbox-container input {
+    width: auto;
+}
+.filter-container input {
+    color: #DCDCDC;
+}
+#checkbox {
+    width: 20px;
+    height: 20px;
+    border-color: #DCDCDC;
+}

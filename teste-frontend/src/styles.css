@@ -1,0 +1,54 @@
+body {
+    height: 100px;
+}
+
+.header-container {
+    background: #F97D00;
+    width: 100%;
+    padding: 20px;
+}
+
+.header-content {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.menu-icon {
+    margin-right: 31px;
+}
+ 
+.logo-header {
+    height: 56px;
+}
+
+ .header-left {
+    display: flex;
+} 
+
+.header-right {
+    display: flex;
+    align-items: center;
+}
+
+.header-right img {
+    margin-right: 8px;
+}
+
+.header-right nav {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    display: flex;
+    text-align: center;
+}
+
+.barra {
+    transform: rotate(90deg);
+}

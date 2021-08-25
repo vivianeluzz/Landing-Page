@@ -1,0 +1,65 @@
+section {
+    background-color: #F4F4F4;
+    width: 100%;
+}
+.footer-container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+span {
+    color: #707070;
+    font-weight: 500;
+}
+.loja-movida {
+   color:  #999999;
+   text-align: left;
+   font-family: 'Roboto';
+   font-weight: 300;
+   font-size: 15px;
+   display: flex; 
+   padding: 57px 0;
+   border-bottom: 1px solid #DDDDDD;
+}
+.loja-movida p {
+    margin: 20px;
+}
+
+h4 {
+    font: normal normal bold 13px/15px 'Roboto';
+    color: #F97D00;
+    font-size: 13px;
+}
+.movida {
+   color: #999999;
+   font-size: 13px;
+   opacity: 1;
+   font-family: 'Roboto';
+}
+.sites-movida {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #DDDDDD;
+
+}
+.sites-movida img {
+    margin-right: 30px;
+}
+.infos-uteis img {
+    margin: 33px;
+}
+.infos-footer {
+    background-color: #F97D00;
+}
+.logo-footer {
+    max-width: 960px;
+    display: flex;
+    justify-content: space-between;  
+    margin: 0 auto;
+    align-items: center;
+}
+.logo-footer img {
+    margin: 0 0 0 20px;
+}
+
+
