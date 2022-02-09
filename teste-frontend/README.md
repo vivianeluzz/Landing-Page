@@ -1,4 +1,4 @@
-# TesteFrontend
+# Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
@@ -31,7 +31,7 @@ No terminal clone o projeto
 
 Entre na pasta do projeto
 
-cd movida
+cd m
 ls 
 cd teste-frontend
 
